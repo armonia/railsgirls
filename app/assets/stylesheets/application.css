@@ -17,8 +17,9 @@ body { padding-top: 100px;
 	
  }
 footer { margin-top: 100px; background-color: #000;}
-table, td, th { vertical-align: middle !important; border: none !important; background-color: #F0F0F0; 
-	opacity:1;
+table, td, th { vertical-align: middle !important; background-color: #F0F0F0; 
+	opacity:1; border:2px solid #FF00FF;
+
  }
 th { border-bottom: 1px solid #DDD !important;  }
 
